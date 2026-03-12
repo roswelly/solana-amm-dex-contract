@@ -16,6 +16,7 @@ It enables traders to benefit from deep liquidity, fast order matching, and effi
 - Migration tool for to transfer LP position from other AMMs
 - Token2022 support
 - Highly CU optimized for faster swaps
+- Full test suite
 
 ## How It Works
 - User Places an Order: Users can place limit or market orders on the on-chain order book.
